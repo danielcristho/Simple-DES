@@ -158,7 +158,7 @@ def Encrypt():
         #==============================================================================
 
 
-        #========== process key bits on a permutation array of 56 values ================
+        #========== process key bits on a permutation array of 56 index ================
 
         PC1 = [
             57,   49,    41,   33,    25,    17,    9,
